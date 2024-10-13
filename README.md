@@ -1,3 +1,5 @@
-# pop_the_lock
+# Pop the Lock
 
-A new Flutter project.
+A simple Pop the Lock game in Flutter.
+
+Gameplay: https://www.youtube.com/shorts/e2ECYi_S3x8

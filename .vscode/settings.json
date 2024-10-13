@@ -6,5 +6,5 @@
     // Insert semicolons automatically at the end of statements on save
     "quickfix.insertSemicolon": "explicit"
   },
-  "cSpell.words": ["Cupertino", "vsync"]
+  "cSpell.words": ["Cupertino", "Gameplay", "vsync"]
 }
