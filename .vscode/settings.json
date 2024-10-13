@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    // Fix Dart analysis issues on save
+    "source.fixAll": "explicit",
+    // Insert semicolons automatically at the end of statements on save
+    "quickfix.insertSemicolon": "explicit"
+  },
+  "cSpell.words": ["Cupertino", "vsync"]
+}
